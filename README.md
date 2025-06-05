@@ -81,6 +81,4 @@ With your data gleaming, the possibilities are endless!
 * **Predictive Modeling** 🔮: Can we predict cancellations? Let's find out!
 * **Seasonal Demand Analysis** 🗓️: Uncover how demand changes throughout the year.
 
----
-
-Ready to unlock the secrets hidden within this data? 🚀
+-------X-------
